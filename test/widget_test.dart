@@ -25,7 +25,7 @@ void main() {
 
     // Verify that our counter has incremented.
     expect(find.text('0'), findsNothing);
-    expect(find.text('10'), findsNothing); // add to test automated travis trigger with new commit
+    expect(find.text('100'), findsNothing); // change to test automated travis trigger with new commit
     expect(find.text('1'), findsOneWidget);
   });
 }
