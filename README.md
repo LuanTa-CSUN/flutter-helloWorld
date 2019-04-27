@@ -1,5 +1,7 @@
 # flutter_app
 
+[![Build Status](https://travis-ci.com/LuanTa-CSUN/flutter-helloWorld.svg?branch=master)](https://travis-ci.com/LuanTa-CSUN/flutter-helloWorld)
+
 A new Flutter application.
 
 ## Getting Started
